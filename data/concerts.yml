@@ -1,0 +1,87 @@
+- titel: 'Zeit und Raum'
+  leitung: 'Valentin Egel'
+  location: 'Kammermusiksaal der Berliner Philharmonie'
+  date: '21. Januar 2018'
+  time: '20:00 Uhr'
+  description: '„Zeit und Raum“ – Stephen Hawking beschäftigte sich in seinem Buch „Eine kurze Geschichte der Zeit“ mit der Entstehung des Universums und der Rolle der Zeit. Er befasste sich mit diesem Thema theoretisch und wissenschaftlich.
+Gegenüber Hawking scheint Schubert sich in seiner Großen C-Dur Sinfonie ganz praktisch mit dem Phänomen Zeit und insbesondere mit ihrer Rolle in der Musik zu befassen, welche dank der Entdeckung der Sinfonie durch Robert Schumann, überliefert ist.'
+  introduction: 'Einführung in das Konzertprogramm um 19:00 Uhr im Foyer des Kammermusiksaals'
+  programm:
+    - name: 'Eine kurze Geschichte der Zeit'
+      componist:
+        name: 'Aurélien Bello'
+        year_birth: '1980'
+        year_death: ''
+    - name: 'Violoncellokonzert in A-Moll op. 129'
+      solist:
+        name: 'Bruno Delepelaire'
+        description: 'Bruno Delepelaire wurde 1989 in Frankreich geboren und begann im Alter von fünf Jahren mit dem Cellospiel. Nach Studien bei Philippe Muller am Pariser Conservatoire ging er 2012 nach Berlin, wo er bei Jens-Peter Maintz (Universität der Künste) und Ludwig Quandt (Orchester-Akademie der Berliner Philharmoniker) ausgebildet wurde. Meisterkurse führten ihn zu Wolfgang-Emanuel Schmidt, François Salque, Wen-Sinn Yang und Wolfgang Boettcher. Bruno Delepelaire, der mehrfach als Solist und Kammermusiker ausgezeichnet wurde, ist seit November 2013 erster Solocellist der Berliner Philharmoniker. Im Januar 2016 konzertierte er zuletzt mit der Jungen Kammerphilarmonie Berlin und Dmitri Schostakowitschs erstem Konzert für Violoncello.'
+        link: 'https://www.berliner-philharmoniker.de/orchester/musiker/bruno-delepelaire/'
+        photo: ''
+      componist:
+        name: 'Robert Schumann'
+        year_birth: '1810'
+        year_death: '1856'
+    - name: 'Große C-Dur Sinfonie'
+      componist:
+        name: 'Franz Schubert'
+        year_birth: '1797'
+        year_death: '1828'
+- titel: 'Zeit und Raum'
+  leitung: 'Valentin Egel'
+  location: 'Kammermusiksaal der Berliner Philharmonie'
+  date: '21. Januar 2018'
+  time: '20:00 Uhr'
+  description: '„Zeit und Raum“ – Stephen Hawking beschäftigte sich in seinem Buch „Eine kurze Geschichte der Zeit“ mit der Entstehung des Universums und der Rolle der Zeit. Er befasste sich mit diesem Thema theoretisch und wissenschaftlich.
+Gegenüber Hawking scheint Schubert sich in seiner Großen C-Dur Sinfonie ganz praktisch mit dem Phänomen Zeit und insbesondere mit ihrer Rolle in der Musik zu befassen, welche dank der Entdeckung der Sinfonie durch Robert Schumann, überliefert ist.'
+  introduction: 'Einführung in das Konzertprogramm um 19:00 Uhr im Foyer des Kammermusiksaals'
+  programm:
+    - name: 'Eine kurze Geschichte der Zeit'
+      componist:
+        name: 'Aurélien Bello'
+        year_birth: '1980'
+        year_death: ''
+    - name: 'Violoncellokonzert in A-Moll op. 129'
+      solist:
+        name: 'Bruno Delepelaire'
+        description: 'Bruno Delepelaire wurde 1989 in Frankreich geboren und begann im Alter von fünf Jahren mit dem Cellospiel. Nach Studien bei Philippe Muller am Pariser Conservatoire ging er 2012 nach Berlin, wo er bei Jens-Peter Maintz (Universität der Künste) und Ludwig Quandt (Orchester-Akademie der Berliner Philharmoniker) ausgebildet wurde. Meisterkurse führten ihn zu Wolfgang-Emanuel Schmidt, François Salque, Wen-Sinn Yang und Wolfgang Boettcher. Bruno Delepelaire, der mehrfach als Solist und Kammermusiker ausgezeichnet wurde, ist seit November 2013 erster Solocellist der Berliner Philharmoniker. Im Januar 2016 konzertierte er zuletzt mit der Jungen Kammerphilarmonie Berlin und Dmitri Schostakowitschs erstem Konzert für Violoncello.'
+        link: 'https://www.berliner-philharmoniker.de/orchester/musiker/bruno-delepelaire/'
+        photo: ''
+      componist:
+        name: 'Robert Schumann'
+        year_birth: '1810'
+        year_death: '1856'
+    - name: 'Große C-Dur Sinfonie'
+      componist:
+        name: 'Franz Schubert'
+        year_birth: '1797'
+        year_death: '1828'
+- titel: 'Zeit und Raum'
+  leitung: 'Valentin Egel'
+  location: 'Kammermusiksaal der Berliner Philharmonie'
+  date: '21. Januar 2018'
+  time: '20:00 Uhr'
+  description: '„Zeit und Raum“ – Stephen Hawking beschäftigte sich in seinem Buch „Eine kurze Geschichte der Zeit“ mit der Entstehung des Universums und der Rolle der Zeit. Er befasste sich mit diesem Thema theoretisch und wissenschaftlich.
+Gegenüber Hawking scheint Schubert sich in seiner Großen C-Dur Sinfonie ganz praktisch mit dem Phänomen Zeit und insbesondere mit ihrer Rolle in der Musik zu befassen, welche dank der Entdeckung der Sinfonie durch Robert Schumann, überliefert ist.'
+  introduction: 'Einführung in das Konzertprogramm um 19:00 Uhr im Foyer des Kammermusiksaals'
+  programm:
+    - name: 'Eine kurze Geschichte der Zeit'
+      componist:
+        name: 'Aurélien Bello'
+        year_birth: '1980'
+        year_death: ''
+    - name: 'Violoncellokonzert in A-Moll op. 129'
+      solist:
+        name: 'Bruno Delepelaire'
+        description: 'Bruno Delepelaire wurde 1989 in Frankreich geboren und begann im Alter von fünf Jahren mit dem Cellospiel. Nach Studien bei Philippe Muller am Pariser Conservatoire ging er 2012 nach Berlin, wo er bei Jens-Peter Maintz (Universität der Künste) und Ludwig Quandt (Orchester-Akademie der Berliner Philharmoniker) ausgebildet wurde. Meisterkurse führten ihn zu Wolfgang-Emanuel Schmidt, François Salque, Wen-Sinn Yang und Wolfgang Boettcher. Bruno Delepelaire, der mehrfach als Solist und Kammermusiker ausgezeichnet wurde, ist seit November 2013 erster Solocellist der Berliner Philharmoniker. Im Januar 2016 konzertierte er zuletzt mit der Jungen Kammerphilarmonie Berlin und Dmitri Schostakowitschs erstem Konzert für Violoncello.'
+        link: 'https://www.berliner-philharmoniker.de/orchester/musiker/bruno-delepelaire/'
+        photo: ''
+      componist:
+        name: 'Robert Schumann'
+        year_birth: '1810'
+        year_death: '1856'
+    - name: 'Große C-Dur Sinfonie'
+      componist:
+        name: 'Franz Schubert'
+        year_birth: '1797'
+        year_death: '1828'
